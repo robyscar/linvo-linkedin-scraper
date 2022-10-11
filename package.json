@@ -27,6 +27,7 @@
     "@types/string-similarity": "^4.0.0",
     "emoji-strip": "^1.0.1",
     "ghost-cursor": "^1.1.15",
+    "linvo-scraper": "^1.0.5",
     "lodash": "^4.17.21",
     "moment": "^2.29.4",
     "puppeteer-core": "^18.2.1",
